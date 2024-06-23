@@ -16,7 +16,7 @@
 
 - 📱 Mobile
 
-<img src="./images/navbar-mobile-deactive.png" alt="mobile deactive"><img src="./images/navbar-mobile-active.png" alt="mobile active">
+<img width="415px" height="auto" src="./images/navbar-mobile-deactive.png" alt="mobile deactive"><img width="415px" height="auto" src="./images/navbar-mobile-active.png" alt="mobile active">
 
 <br>
 <br>
