@@ -2,6 +2,13 @@
 
 <br>
 
+- URL
+```url
+https://musical-semifreddo-c39aee.netlify.app/
+```
+
+<br>
+
 - ✅ Basic Responsive Navigation Bar Design
 
 <br>
