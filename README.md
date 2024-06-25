@@ -4,7 +4,7 @@
 
 - URL
 ```url
-https://musical-semifreddo-c39aee.netlify.app/
+https://responsive-navbar-furkankayam.netlify.app/
 ```
 
 <br>
